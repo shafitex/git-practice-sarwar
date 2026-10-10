@@ -24,3 +24,17 @@ Learn Git and GitHub by creating repositories, making commits, working with bran
 - Merge feature branches
 - Push code to GitHub
 - Practice Python programming
+
+## Project Structure
+
+```text
+git-practice-sarwar/
+│
+├── README.md
+├── .gitignore
+├── src/
+│   ├── main.py
+│   └── utils.py
+└── docs/
+    └── project-description.md
+```
