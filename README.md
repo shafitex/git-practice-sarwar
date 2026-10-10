@@ -76,3 +76,7 @@ python src/main.py
 - Add unit tests
 - Improve error handling
 - Add logging functionality
+
+## Author
+
+Syed Sarwar Hussain
