@@ -47,3 +47,17 @@ git-practice-sarwar/
 
 ```bash
 python src/main.py
+
+## Usage
+
+The application demonstrates simple calculator functions including:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division (with error handling)
+
+Run the application:
+
+```bash
+python src/main.py
