@@ -61,3 +61,10 @@ Run the application:
 
 ```bash
 python src/main.py
+
+## Technologies Used
+
+- Python 3
+- Git
+- GitHub
+- Visual Studio Code
