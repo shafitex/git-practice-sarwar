@@ -68,3 +68,11 @@ python src/main.py
 - Git
 - GitHub
 - Visual Studio Code
+
+## Future Improvements
+
+- Add advanced calculator operations
+- Create a graphical user interface
+- Add unit tests
+- Improve error handling
+- Add logging functionality
