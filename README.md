@@ -38,3 +38,12 @@ git-practice-sarwar/
 └── docs/
     └── project-description.md
 ```
+
+## Installation
+
+1. Clone the repository.
+2. Navigate to the project folder.
+3. Run the Python program.
+
+```bash
+python src/main.py
