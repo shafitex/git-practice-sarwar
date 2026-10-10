@@ -15,3 +15,11 @@ It demonstrates:
 - Branches
 - Merging
 - GitHub remote repository
+
+Features
+
+Installation
+
+Usage
+
+Project Structure
