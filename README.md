@@ -77,6 +77,10 @@ python src/main.py
 - Improve error handling
 - Add logging functionality
 
+## Assignment Status
+
+This project successfully demonstrates Git branching and merging workflows.
+
 ## Author
 
 Syed Sarwar Hussain
