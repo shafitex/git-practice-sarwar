@@ -1,25 +1,9 @@
 # Git Practice Project
 
-## Name
+## Student Information
 
-Syed Sarwar Hussain
+**Name:** Syed Sarwar Hussain
 
-## Description
+## Project Description
 
-This project is created to practice Git and GitHub fundamentals.
-
-It demonstrates:
-
-- Git initialization
-- Commits
-- Branches
-- Merging
-- GitHub remote repository
-
-Features
-
-Installation
-
-Usage
-
-Project Structure
+This project is created for practicing Git and GitHub fundamentals using Python.
